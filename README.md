@@ -1,8 +1,16 @@
 # Arcaptcha Angular Test
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+first run:`npm install`
 
-## Build
+## Available Scripts
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+In the project directory, you can run:
+
+### `npm run start`
+
+Runs the app in the development mode.\
+Open [http://localhost:4200](http://localhost:4200) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
