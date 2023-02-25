@@ -1,4 +1,4 @@
-# Arcaptcha Angular Test
+# Arcaptcha Angular Demo
 ## Development server
 
 first run:`npm install`
